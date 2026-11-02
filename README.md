@@ -2,7 +2,7 @@
 
 **Lise öğrencileri için sıfırdan, adım adım hazırlık rehberi**
 
-Mustafa Özdemir · Türkçe · Ücretsiz · 2026
+Mustafa Özdemir · Türkçe · Ücretsiz · 2026 · ISBN 978-625-00-4955-6
 
 Bu kitap, Uluslararası Yapay Zekâ Olimpiyatı'na (IOAI) ve ulusal yapay zekâ olimpiyatlarına hazırlanan
 lise öğrencileri için yazılmış ücretsiz bir Türkçe kaynaktır. Konular IOAI 2026 müfredatına göre
