@@ -10,7 +10,9 @@ sıralanmıştır. Anlatım, gerçek olimpiyat görevleri ve çalıştırılmı�
 
 ## İndir
 
-Kitabın PDF sürümü bu deponun **Releases** bölümünde yayımlanacaktır.
+**[Kitabı indir (PDF, 442 sayfa)](https://github.com/namruni/yapay-zeka-olimpiyat-kitabi/releases/latest/download/Yapay-Zeka-Olimpiyat-Hazirlik-Kitabi.pdf)**
+
+Bu bağlantı her zaman en son sürümü indirir. Önceki sürümler [Releases](https://github.com/namruni/yapay-zeka-olimpiyat-kitabi/releases) bölümündedir.
 
 ## İçindekiler
 
